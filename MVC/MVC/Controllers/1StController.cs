@@ -9,5 +9,10 @@ namespace MVC.Controllers
             return View();
         }
         //1111111111111111111111111111111111111111111111k
+        public IActionResult As_Hasasn()
+        {
+            return View();
+        }
+        //222222222222222222222222222222222222222222
     }
 }
