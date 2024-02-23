@@ -29,3 +29,34 @@ D:\Js\gitData\ase\MVC\MVC\obj\Debug\net6.0\refint\MVC.dll
 D:\Js\gitData\ase\MVC\MVC\obj\Debug\net6.0\MVC.pdb
 D:\Js\gitData\ase\MVC\MVC\obj\Debug\net6.0\MVC.genruntimeconfig.cache
 D:\Js\gitData\ase\MVC\MVC\obj\Debug\net6.0\ref\MVC.dll
+D:\All Project List\ase\MVC\MVC\bin\Debug\net6.0\appsettings.Development.json
+D:\All Project List\ase\MVC\MVC\bin\Debug\net6.0\appsettings.json
+D:\All Project List\ase\MVC\MVC\bin\Debug\net6.0\MVC.staticwebassets.runtime.json
+D:\All Project List\ase\MVC\MVC\bin\Debug\net6.0\MVC.exe
+D:\All Project List\ase\MVC\MVC\bin\Debug\net6.0\MVC.deps.json
+D:\All Project List\ase\MVC\MVC\bin\Debug\net6.0\MVC.runtimeconfig.json
+D:\All Project List\ase\MVC\MVC\bin\Debug\net6.0\MVC.dll
+D:\All Project List\ase\MVC\MVC\bin\Debug\net6.0\MVC.pdb
+D:\All Project List\ase\MVC\MVC\obj\Debug\net6.0\MVC.csproj.AssemblyReference.cache
+D:\All Project List\ase\MVC\MVC\obj\Debug\net6.0\MVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\All Project List\ase\MVC\MVC\obj\Debug\net6.0\MVC.AssemblyInfoInputs.cache
+D:\All Project List\ase\MVC\MVC\obj\Debug\net6.0\MVC.AssemblyInfo.cs
+D:\All Project List\ase\MVC\MVC\obj\Debug\net6.0\MVC.csproj.CoreCompileInputs.cache
+D:\All Project List\ase\MVC\MVC\obj\Debug\net6.0\MVC.MvcApplicationPartsAssemblyInfo.cache
+D:\All Project List\ase\MVC\MVC\obj\Debug\net6.0\MVC.RazorAssemblyInfo.cache
+D:\All Project List\ase\MVC\MVC\obj\Debug\net6.0\MVC.RazorAssemblyInfo.cs
+D:\All Project List\ase\MVC\MVC\obj\Debug\net6.0\staticwebassets\msbuild.MVC.Microsoft.AspNetCore.StaticWebAssets.props
+D:\All Project List\ase\MVC\MVC\obj\Debug\net6.0\staticwebassets\msbuild.build.MVC.props
+D:\All Project List\ase\MVC\MVC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MVC.props
+D:\All Project List\ase\MVC\MVC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MVC.props
+D:\All Project List\ase\MVC\MVC\obj\Debug\net6.0\staticwebassets.pack.json
+D:\All Project List\ase\MVC\MVC\obj\Debug\net6.0\staticwebassets.build.json
+D:\All Project List\ase\MVC\MVC\obj\Debug\net6.0\staticwebassets.development.json
+D:\All Project List\ase\MVC\MVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\All Project List\ase\MVC\MVC\obj\Debug\net6.0\scopedcss\bundle\MVC.styles.css
+D:\All Project List\ase\MVC\MVC\obj\Debug\net6.0\scopedcss\projectbundle\MVC.bundle.scp.css
+D:\All Project List\ase\MVC\MVC\obj\Debug\net6.0\MVC.dll
+D:\All Project List\ase\MVC\MVC\obj\Debug\net6.0\refint\MVC.dll
+D:\All Project List\ase\MVC\MVC\obj\Debug\net6.0\MVC.pdb
+D:\All Project List\ase\MVC\MVC\obj\Debug\net6.0\MVC.genruntimeconfig.cache
+D:\All Project List\ase\MVC\MVC\obj\Debug\net6.0\ref\MVC.dll

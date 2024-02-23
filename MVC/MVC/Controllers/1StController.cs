@@ -14,5 +14,11 @@ namespace MVC.Controllers
             return View();
         }
         //222222222222222222222222222222222222222222
+        public IActionResult As3_Hasasn()
+        {
+            return View();
+        }
+        //333333333333333333333333333333333333
+
     }
 }

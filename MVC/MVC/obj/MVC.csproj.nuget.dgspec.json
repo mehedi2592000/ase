@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Js\\gitData\\ase\\MVC\\MVC\\MVC.csproj": {}
+    "D:\\All Project List\\ase\\MVC\\MVC\\MVC.csproj": {}
   },
   "projects": {
-    "D:\\Js\\gitData\\ase\\MVC\\MVC\\MVC.csproj": {
+    "D:\\All Project List\\ase\\MVC\\MVC\\MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Js\\gitData\\ase\\MVC\\MVC\\MVC.csproj",
+        "projectUniqueName": "D:\\All Project List\\ase\\MVC\\MVC\\MVC.csproj",
         "projectName": "MVC",
-        "projectPath": "D:\\Js\\gitData\\ase\\MVC\\MVC\\MVC.csproj",
+        "projectPath": "D:\\All Project List\\ase\\MVC\\MVC\\MVC.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "D:\\Js\\gitData\\ase\\MVC\\MVC\\obj\\",
+        "outputPath": "D:\\All Project List\\ase\\MVC\\MVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
