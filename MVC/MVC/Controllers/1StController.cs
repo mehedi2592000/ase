@@ -9,5 +9,12 @@ namespace MVC.Controllers
             return View();
         }
         //1111111111111111111111111111111111111111111111k
+
+        public IActionResult Me()
+        {
+            return View();
+        }
+        //222222222222222222222222222222222222222k
+
     }
 }
